@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./js/02-uzduotis",
+    "dev": "nodemon ./js/03-uzduotis",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
