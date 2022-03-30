@@ -3,7 +3,7 @@ kuri nustatytu, kaip turi pasielgti mokinys? Žinome šviesoforo spalvos kodą n
 Pasitikrinkite: Kai n= 2, turėtume gauti: Palaukite.
 */
 
-const spalva = '2';
+const spalva = 2;
 
 switch (spalva) {
   case "1":
