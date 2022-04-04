@@ -2,10 +2,10 @@
 Neigiamas – „Blogas“, teigiamas „Geras“. Pasitikrinkite: Kai n = 20, turėtume gauti:
 Skaičius geras.*/
 
-const n = -20;
+const n = 0;
 if (n < 0) {
     console.log('blogas');
-} else {
+} else if (n>0) {
     console.log('geras');
 }
 

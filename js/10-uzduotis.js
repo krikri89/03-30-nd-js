@@ -11,7 +11,7 @@ const m = 5;
 const m2 = 23;
 
 if (
-    (v1*60+m1+m2)/60 > (v*60+m)/60) {
+    (v1*60+m1+m2) > (v*60+m)) {
         console.log('Petras paveluos');
     } else {
         console.log('Petras NEpaveluos');

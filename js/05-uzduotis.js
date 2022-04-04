@@ -4,9 +4,8 @@ porcijas, liks centų 10. Gali prireikti panaudoti Math.floor() funkciją.*/
 const c = 50;
 const p = 20;
 const m = c % p;
-const k = (c/p);
+const k = Math.floor(c/p);
 
-console.log(Math.floor(k));
-console.log(m);
+
 const rez = `Saulius nusipirks ${Math.floor(k)} porcijas ir jam liks ${m} centu`;
 console.log(rez);

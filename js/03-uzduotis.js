@@ -5,9 +5,10 @@ const d = 2;
 const k = 8;
 const n = 5;
 
-if (d * n >= k)
-{console.log('Knygos telpa i dezes');}
-else {
+if (d * n >= k) 
+{
+    console.log('Knygos telpa i dezes');
+} else {
     console.log('Knygos netelpa i dezes');
 }
 //-----------------------------------

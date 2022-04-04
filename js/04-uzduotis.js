@@ -5,8 +5,11 @@ vienetu, o mažesnį padidintu vienetu.*/
 let a = 22;
 let b = 45;
 
-if (a>b)
-{console.log(++a, --b);}
-else {console.log(--a, ++b);}
+if (a>b){
+    console.log(++a, --b);
+}
+else if(b>a){
+    console.log(--a, ++b);
+}
 
 

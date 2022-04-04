@@ -6,13 +6,13 @@ Pasitikrinkite: Kai n= 2, turėtume gauti: Palaukite.
 const spalva = 2;
 
 switch (spalva) {
-  case "1":
+  case 1:
     console.log('zalia go');
     break;
-  case "2":
+  case 2:
     console.log(' geltona wait');
     break;
-  case "3":
+  case 3:
     console.log('raudona stop');
     break;
 default:
